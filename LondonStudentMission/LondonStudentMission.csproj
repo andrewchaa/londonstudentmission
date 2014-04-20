@@ -61,8 +61,8 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\index.cshtml" />
-    <None Include="Views\index_old.cshtml" />
+    <Content Include="Views\index_test.cshtml" />
+    <None Include="Views\index.cshtml" />
     <Content Include="Content\css\magister.css" />
     <Content Include="Content\images\body1.jpg" />
     <Content Include="Content\images\body2.jpg" />
