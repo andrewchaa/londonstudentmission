@@ -61,7 +61,21 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\nancy-logo.png" />
+    <None Include="Views\index.cshtml" />
+    <Content Include="Content\css\magister.css" />
+    <Content Include="Content\images\body1.jpg" />
+    <Content Include="Content\images\body2.jpg" />
+    <Content Include="Content\images\body3.jpg" />
+    <Content Include="Content\images\body4.jpg" />
+    <Content Include="Content\images\body5.JPG" />
+    <Content Include="Content\images\gt_favicon.png" />
+    <Content Include="Content\js\magister.js" />
+    <Content Include="Content\js\modernizr.custom.72241.js" />
+    <Content Include="Content\screenshots\sshot1.jpg" />
+    <Content Include="Content\screenshots\sshot2.jpg" />
+    <Content Include="Content\screenshots\sshot3.jpg" />
+    <Content Include="Content\screenshots\sshot4.jpg" />
+    <Content Include="Content\screenshots\sshot5.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -71,7 +85,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="Views\index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
