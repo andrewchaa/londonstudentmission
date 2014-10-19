@@ -64,6 +64,7 @@
     <Content Include="Content\images\cross.png" />
     <Content Include="Content\images\london-original.jpg" />
     <Content Include="Content\images\london.jpg" />
+    <Content Include="Content\images\londonstudentmission.jpg" />
     <Content Include="Views\Index\index.cshtml" />
     <Content Include="Content\css\magister.css" />
     <Content Include="Content\images\body1.jpg" />
